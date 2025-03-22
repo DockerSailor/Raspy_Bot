@@ -1,0 +1,8 @@
+Este proyecto necesita las siguientes dependencias:
+
+https://www.npmjs.com/package/dotenv
+https://www.npmjs.com/package/node-telegram-bot-api
+https://www.npmjs.com/package/pm2
+https://nodejs.org/api/child_process.html#child-process
+
+Para usar la aplicacion, ejecutar pm2 start/stop src/index.js
