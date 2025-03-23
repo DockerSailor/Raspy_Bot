@@ -14,7 +14,8 @@
 <h1>Instalación</h1>
 <p>
 Para ejecutar el proyecto hay que descargar el repositorio, y en la raiz crear un archivo .env que contenga lo siguiente:
-    Telegram_Token="TU_TOKEN_PARA_EL_BOT"
+
+'Telegram_Token="TU_TOKEN_PARA_EL_BOT"'
 
 Para obtenerlo tienes que crear un bot usando FatherBot.
 </p>
