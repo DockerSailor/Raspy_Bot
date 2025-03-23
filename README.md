@@ -27,11 +27,12 @@ Para obtenerlo tienes que crear un bot usando FatherBot.
 <h1>Teconologías</h1>
 <p>
     Este proyecto necesita las siguientes dependencias:
-
-https://www.npmjs.com/package/dotenv
-https://www.npmjs.com/package/node-telegram-bot-api
-https://www.npmjs.com/package/pm2
-https://nodejs.org/api/child_process.html#child-process
+<ul>
+    <li>https://www.npmjs.com/package/dotenv</li>
+    <li>https://www.npmjs.com/package/node-telegram-bot-api</li>
+    <li>https://www.npmjs.com/package/pm2</li>
+    <li>https://nodejs.org/api/child_process.html#child-process<li>
+</ul>
 </p>
 
 <h1>Histórico de versiones</h1>
