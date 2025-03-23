@@ -25,7 +25,7 @@
 </p>
 
 <h1>Teconologías</h1>
-    <p>
+<p>
     Este proyecto necesita las siguientes dependencias:
 
     https://www.npmjs.com/package/dotenv
