@@ -31,7 +31,7 @@ Para obtenerlo tienes que crear un bot usando FatherBot.
     <li>https://www.npmjs.com/package/dotenv</li>
     <li>https://www.npmjs.com/package/node-telegram-bot-api</li>
     <li>https://www.npmjs.com/package/pm2</li>
-    <li>https://nodejs.org/api/child_process.html#child-process<li>
+    <li>https://nodejs.org/api/child_process.html#child-process</li>
 </ul>
 </p>
 
